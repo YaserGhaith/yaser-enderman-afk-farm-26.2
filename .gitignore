@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+.settings/
+
+# Fabric / Minecraft dev runtime
+run/
+remappedSrc/
+
+# Logs & OS noise
+*.log
+.DS_Store
+Thumbs.db
